@@ -1,0 +1,13 @@
+{
+    "expo": {
+      "name": "Connect 4",
+      "slug": "Connect 4",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "userInterfaceStyle": "light",
+      "assetBundlePatterns": [
+        "**/*"
+      ]
+    }
+  }
+  
